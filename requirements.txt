@@ -1,0 +1,5 @@
+""" Requirements for notebooks """
+
+matplotlib
+numpy 
+pandas
